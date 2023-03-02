@@ -7,7 +7,7 @@
 
 
 // x.map((ele)=>console.log(ele))
-        
+
 
 // x.push(7,8,9,10)
 
@@ -110,3 +110,61 @@
 // }
 // const x= ['student001','student002','student003','student004','student005','student006']
 // x.map((ele)=>printName(ele))
+
+
+
+
+//if condition
+//type conversion "5" to a number 
+// (==)  (=)
+
+//pyhto
+
+//a2 +b2 = c2
+
+
+// let A = prompt('enter the A side value')
+// let B = prompt('enter the B side value')
+
+
+
+
+
+// const Theorem =(a,b)=>{
+
+// let x=Number(a)
+// let y=Number(b)
+
+//  let xSq= x*x
+//  let ySq= y*y
+
+// console.log(`the A square = ${xSq}  and the Y square = ${ySq}` )
+
+
+// let calc = xSq+ySq
+
+
+// console.log(`the C square  = ${calc} `)
+
+
+
+
+
+
+// }
+
+
+// Theorem(A,B)
+
+
+
+
+
+
+
+
+
+
+
+
+

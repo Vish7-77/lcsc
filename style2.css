@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+
+section{
+    background: gray;
+display: flex;
+justify-content: center;
+align-items: center;
+width: 100%;
+height: 100vh;
+
+}
+
+.innermain{
+    width: 50%;
+    height: 50%;
+    background-color: white;
+    border-radius: 23px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+
+.first,.sec,.third{
+    display: flex;
+    flex-direction: column;
+}
+
