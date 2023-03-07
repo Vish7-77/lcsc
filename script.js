@@ -1,170 +1,27 @@
-
-
-
-
-// let x =["studentone","studenttwo","studentthreee"]
-
-
-
-// x.map((ele)=>console.log(ele))
-
-
-// x.push(7,8,9,10)
-
-// console.log(x.indexOf("studenttwo"))
-
-
-
-// console.log(x.includes('studenttwo'))
-
-
-
-
-// let a = {
-// Firstinstall:2000,
-// Secondinstall:5000,
-
-
+// const printTheName=(stdname)=>{
+// console.log(`our institution have student name ${stdname}, and done very well in exams`)
 // }
+// let Arr =['studentOne','studentTwo','studentThree','StudentFour','studentOne','studentTwo','studentThree','StudentFour']
+// Arr.map((ele)=>printTheName(ele))
 
 
-// console.log(a.Firstinstall+a.Secondinstall)
+//we are creating a new array <== elements
+//we are using a map function of array . 
+//map function will loop through the array and execute the PrintNAme Function on Every element
+//Print NAme  function takes the argument and console it in the templete literal form
 
 
 
 
-// functions
+// let a ="Print NAme function takes the argument and console it in the templete literal form"
+// let b = a.split(' ')
+// console.log(b)
+// b.map((ele)=>console.log(ele))
 
-//normal
-//arrow function
 
 
 
-// function add(){
+// let Arr =[1,2,3,4,5,6,7,8,9,10]
+// let total =Arr.reduce((a,b)=>a+b)
 
-// }
-
-//defining a function
-// const addition =()=>{
-
-// }
-
-
-
-//declearing a function
-// addition()
-
-
-
-
-
-// const add =(a,b)=>{
-
-// let c = a+b
-// console.log(c)
-
-
-// }
-
-
-
-// add(2,3)
-
-
-
-// const GST=(a)=>{
-
-//    let x = typeof(a)
-
-// if(x=="number"){
-//    let c = a/100*18;
-//    let total =Number(a)+Number(c)
-//    console.log(c +" this is the gst price for" + a +"and the total is"+ total )
-
-// }
-// else{
-//    console.log('the input should be in number format')
-// }
-
-
-// }
-
-
-
-
-
-
-
-//operators + -/ % *
-// == (checking) ,&&  || !=
-
-
-
-
-// GST(56)
-
-
-
-// const printName=(name)=>{
-//    console.log("hello"+" " +name + " this is your full stack class")
-// }
-// const x= ['student001','student002','student003','student004','student005','student006']
-// x.map((ele)=>printName(ele))
-
-
-
-
-//if condition
-//type conversion "5" to a number 
-// (==)  (=)
-
-//pyhto
-
-//a2 +b2 = c2
-
-
-// let A = prompt('enter the A side value')
-// let B = prompt('enter the B side value')
-
-
-
-
-
-// const Theorem =(a,b)=>{
-
-// let x=Number(a)
-// let y=Number(b)
-
-//  let xSq= x*x
-//  let ySq= y*y
-
-// console.log(`the A square = ${xSq}  and the Y square = ${ySq}` )
-
-
-// let calc = xSq+ySq
-
-
-// console.log(`the C square  = ${calc} `)
-
-
-
-
-
-
-// }
-
-
-// Theorem(A,B)
-
-
-
-
-
-
-
-
-
-
-
-
-
+// console.log(total)
