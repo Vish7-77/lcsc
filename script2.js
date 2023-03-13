@@ -119,17 +119,17 @@
 // let a  =[1,2,4,5,5,5,6,5,6,45,6,34,5,34,5,23,4,23,4,32,4,23,4,23,34,123,4,3 ]
 
 //this is the string here
-let  b = "this is full stack class"
+// let  b = "this is full stack class"
 
 
 
 //converted to an array
-let c = b.split(' ')
+// let c = b.split(' ')
 
 
 
 //mapping through it : consoling the elements
-c.map((ele,index)=>console.log(index,ele))
+// c.map((ele,index)=>console.log(index,ele))
 
 
 
@@ -138,3 +138,9 @@ c.map((ele,index)=>console.log(index,ele))
 
 // a.map((ele)=>console.log(ele))
 // console.log(a)
+
+
+
+
+
+
